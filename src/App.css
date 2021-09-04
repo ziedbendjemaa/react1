@@ -1,0 +1,19 @@
+button{
+  width: 100px;
+  height: 30px;
+  background-color: #508FE2;
+  color: #ffff;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.from{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #6b262c;
+}
+form{
+  text-align: center;
+}
+
+
